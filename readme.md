@@ -1,6 +1,6 @@
-# Double Sliding Form  Login / Signup
+# Testimonial Card
 This project is built with **HTML** **CSS** and **JavaScript**
 
-Find this project on [Codepen](https://codepen.io/ibrahima92/full/VwZpBLG)
+Find this project on [Codepen](https://codepen.io/ibrahima92/full/mdbLmVX)
 ## License
 Free for personnal and commercial use.
